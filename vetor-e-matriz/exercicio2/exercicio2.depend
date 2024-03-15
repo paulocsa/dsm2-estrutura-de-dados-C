@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1710462949 source:c:\users\fatec-dsm2\desktop\dsm2-estrutura-de-dados-c\vetor-e-matriz\exercicio2\main.c
+	<stdio.h>
+	<stdlib.h>
+
